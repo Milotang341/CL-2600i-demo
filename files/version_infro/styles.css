@@ -1,0 +1,54 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/version_infro/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1200px;
+  position:static;
+  left:auto;
+  width:1648px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u5895 {
+  position:absolute;
+  left:1476px;
+  top:168px;
+  width:172px;
+  height:832px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u5896 {
+  position:absolute;
+  left:498px;
+  top:230px;
+  width:168px;
+  height:92px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u5897 {
+  position:absolute;
+  left:676px;
+  top:230px;
+  width:210px;
+  height:92px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u5898 {
+  position:absolute;
+  left:896px;
+  top:222px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

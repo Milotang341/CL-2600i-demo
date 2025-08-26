@@ -1,0 +1,27 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/new_page_5_17/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1200px;
+  position:static;
+  left:auto;
+  width:1610px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4369 {
+  position:absolute;
+  left:1444px;
+  top:222px;
+  width:166px;
+  height:726px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

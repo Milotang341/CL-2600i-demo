@@ -1,0 +1,54 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/版本信息/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1203px;
+  position:static;
+  left:auto;
+  width:1650px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3248 {
+  position:absolute;
+  left:1288px;
+  top:174px;
+  width:362px;
+  height:818px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3249 {
+  position:absolute;
+  left:286px;
+  top:238px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3250 {
+  position:absolute;
+  left:558px;
+  top:238px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3251 {
+  position:absolute;
+  left:692px;
+  top:238px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

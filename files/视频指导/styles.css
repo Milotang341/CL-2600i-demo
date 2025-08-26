@@ -1,0 +1,36 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/视频指导/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1080px;
+  position:static;
+  left:auto;
+  width:1480px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3281 {
+  position:absolute;
+  left:1154px;
+  top:174px;
+  width:326px;
+  height:154px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3282 {
+  position:absolute;
+  left:1328px;
+  top:762px;
+  width:136px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

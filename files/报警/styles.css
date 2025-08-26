@@ -1,0 +1,45 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/报警/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1080px;
+  position:static;
+  left:auto;
+  width:1910px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3193 {
+  position:absolute;
+  left:1434px;
+  top:72px;
+  width:142px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3194 {
+  position:absolute;
+  left:1638px;
+  top:72px;
+  width:154px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3195 {
+  position:absolute;
+  left:1208px;
+  top:218px;
+  width:702px;
+  height:842px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

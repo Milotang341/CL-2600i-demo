@@ -1,0 +1,54 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/关于/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1080px;
+  position:static;
+  left:auto;
+  width:1654px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3244 {
+  position:absolute;
+  left:1292px;
+  top:110px;
+  width:362px;
+  height:818px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3245 {
+  position:absolute;
+  left:420px;
+  top:174px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3246 {
+  position:absolute;
+  left:562px;
+  top:174px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u3247 {
+  position:absolute;
+  left:696px;
+  top:174px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

@@ -1,0 +1,27 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/sample-s_orders-assign_reagent/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1200px;
+  position:static;
+  left:auto;
+  width:1643px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3318 {
+  position:absolute;
+  left:1331px;
+  top:898px;
+  width:312px;
+  height:99px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

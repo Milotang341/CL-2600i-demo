@@ -1,0 +1,27 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/停止测试/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1080px;
+  position:static;
+  left:auto;
+  width:1290px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3191 {
+  position:absolute;
+  left:918px;
+  top:313px;
+  width:372px;
+  height:410px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

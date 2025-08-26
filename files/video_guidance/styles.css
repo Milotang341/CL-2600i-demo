@@ -1,0 +1,36 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/video_guidance/bg.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1920px 1200px;
+  position:static;
+  left:auto;
+  width:1486px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u5877 {
+  position:absolute;
+  left:1330px;
+  top:832px;
+  width:140px;
+  height:94px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u5878 {
+  position:absolute;
+  left:1386px;
+  top:222px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
